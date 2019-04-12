@@ -9,5 +9,7 @@ Quora is a platform that empowers people to learn from each other. On Quora, peo
 
 In this competition, I will develop models that identify and flag insincere questions, more scalable methods to detect toxic and misleading content.
 
+Functionig of attention layer can be understand from this post https://medium.com/@joealato/attention-in-nlp-734c6fa9d983
+
 Public leaderboard score  0.70235
 Private leaderboard score is 0.69729
